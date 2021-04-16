@@ -1,1 +1,12 @@
-Step 1. 
+Step 1. I want to have a functional menu system in this program, meaning one that doesn't close everytime I run a function.
+to do this I'm planning to integrate a menu system from the start and build upon it.
+
+Step 2. Research what I don't know how to do starting from ch1 and moving my way to ch9-ch14 (maybe ch15 too if possible) 
+I will be reviewing and using some material I'm familiar with but learning/researching will be a big part of the latter 
+part of the project.
+
+Step 3. Gather resources and information needed for implementing the neccesary functions and the imported modules they will require.
+so far I know I will have to import the re module, the random module, the socket module, and the xml.etree.ElementTree as ET module  
+
+Step 4. Define functions and introduce/demo material in as subtle a way as I can, while still showing what I've learned.
+
