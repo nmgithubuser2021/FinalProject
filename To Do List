@@ -1,20 +1,37 @@
 Step 1. Citations will be very important If I reference any material not part of the course material, I will usually start gathering my sources first and list them in my 
 works cited section.
 
+*Update I have been gathering resources, the works cited page should be in the readme file.  
+
 Step 2. I want to have a functional menu system in this program, meaning one that doesn't close everytime I run a function.
 to do this I'm planning to integrate a menu system from the start and build upon it.
+
+*Update The program has a functional menu system currently chapters 1-5 have material I plan to keep adding to it.
 
 Step 3. Research what I don't know how to do starting from ch1 and moving my way to ch11-ch14 (maybe ch15 too if possible) 
 I will be reviewing and using some material I'm familiar with but learning/researching will be a big part of the latter 
 part of the project.
 
+*Update I have started with the easiest work material I'm already familiar with, there is still more research to be done.  
+
 Step 4. Gather resources and information needed for implementing the neccesary functions and the imported modules they will require.
-so far I know I will have to import the re module, the random module, the socket module, and the xml.etree.ElementTree as ET module  
+so far I know I will have to import the re module, the random module, the socket module, and the xml.etree.ElementTree as ET module
+
+*Update So far I have not implemented any modules I have been working starting with ch1 as I go forward, modules will be added to the 
+program as needed.
 
 Step 5. Define functions and introduce/demo material in as subtle a way as I can, while still showing what I've learned.
+
+*Update At this point Ch1-5 has material all of which is accessed via a menu system I have many user defined functions.
+and will continue adding more 
 
 Step 6. Presentation 
 Once I have a program that is working to specifications, I will create a presentation of the program.
 This would include a video I’m planning on pre-recording myself on zoom doing a screen capture / walkthrough of the program and adding that video to my final project material. 
 
 I may include a voiced power point that demonstrates or explains the program if needed.
+
+*Update For step 6 Presentation my plan is still the same, once the program is up to spec I will make a screen capture.
+(I plan to use zoom and prerecord myself doing a walkthrough).
+I will plan to upload that video to youtube.
+A link to the youtube vid would be provided when it is up.
